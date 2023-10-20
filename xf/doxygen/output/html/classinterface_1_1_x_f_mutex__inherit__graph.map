@@ -1,0 +1,4 @@
+<map id="interface::XFMutex" name="interface::XFMutex">
+<area shape="rect" id="node1" title="Mutex interface needed by the XF to access a mutex." alt="" coords="5,5,136,156"/>
+<area shape="rect" id="node2" href="$class_x_f_mutex.html" title="Default Qt implementation for the XFMutex interface." alt="" coords="23,204,118,384"/>
+</map>

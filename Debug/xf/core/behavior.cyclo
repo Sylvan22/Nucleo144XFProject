@@ -1,0 +1,21 @@
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:50:24:XFEvent::XFEventType XFEvent::getEventType() const	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:56:36:interface::XFBehavior* XFEvent::getBehavior() const	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:61:17:void XFEvent::setBehavior(interface::XFBehavior*)	1
+C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626\tools\arm-none-eabi\include\c++\11.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/eventstatus.h:37:5:XFEventStatus::XFEventStatus(XFEventStatus::eEventStatus)	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/eventstatus.h:42:10:bool XFEventStatus::operator==(const XFEventStatus::eEventStatus&) const	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/behavior.h:44:5:constexpr interface::XFBehavior::XFBehavior()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/behavior.h:33:13:interface::XFBehavior::~XFBehavior()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/behavior.h:33:13:virtual interface::XFBehavior::~XFBehavior()	1
+../xf/core/behavior.cpp:8:1:XFBehavior::XFBehavior()	1
+../xf/core/behavior.cpp:13:1:XFBehavior::~XFBehavior()	3
+../xf/core/behavior.cpp:13:1:virtual XFBehavior::~XFBehavior()	1
+../xf/core/behavior.cpp:20:6:virtual void XFBehavior::startBehavior()	1
+../xf/core/behavior.cpp:26:6:virtual void XFBehavior::pushEvent(XFEvent*)	2
+../xf/core/behavior.cpp:37:6:virtual bool XFBehavior::deleteOnTerminate() const	1
+../xf/core/behavior.cpp:42:6:virtual void XFBehavior::setDeleteOnTerminate(bool)	1
+../xf/core/behavior.cpp:47:16:const XFEvent* XFBehavior::getCurrentEvent() const	1
+../xf/core/behavior.cpp:52:26:interface::XFDispatcher* XFBehavior::getDispatcher()	1
+../xf/core/behavior.cpp:56:18:const XFTimeout* XFBehavior::getCurrentTimeout()	2
+../xf/core/behavior.cpp:64:6:void XFBehavior::setCurrentEvent(const XFEvent*)	1
+../xf/core/behavior.cpp:69:31:virtual interface::XFBehavior::TerminateBehavior XFBehavior::process(const XFEvent*)	8

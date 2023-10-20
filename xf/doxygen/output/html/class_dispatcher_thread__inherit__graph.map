@@ -1,0 +1,4 @@
+<map id="DispatcherThread" name="DispatcherThread">
+<area shape="rect" id="node1" title="The DispatcherThread calls the XFDispatcher execute() method in a separate thread." alt="" coords="5,131,151,223"/>
+<area shape="rect" id="node2" title=" " alt="" coords="42,5,114,83"/>
+</map>

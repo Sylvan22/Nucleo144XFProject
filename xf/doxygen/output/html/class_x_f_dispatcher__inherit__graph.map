@@ -1,0 +1,4 @@
+<map id="XFDispatcher" name="XFDispatcher">
+<area shape="rect" id="node1" title="Dispatcher used in an IDF (no underlying OS)." alt="" coords="7,248,161,443"/>
+<area shape="rect" id="node2" href="$classinterface_1_1_x_f_dispatcher.html" title="Interface for the XF dispatcher providing the event processing loop." alt="" coords="5,5,163,200"/>
+</map>

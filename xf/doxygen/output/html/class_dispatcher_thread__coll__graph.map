@@ -1,0 +1,5 @@
+<map id="DispatcherThread" name="DispatcherThread">
+<area shape="rect" id="node1" title="The DispatcherThread calls the XFDispatcher execute() method in a separate thread." alt="" coords="38,263,183,355"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,64,77,141"/>
+<area shape="rect" id="node3" href="$classinterface_1_1_x_f_dispatcher.html" title="Interface for the XF dispatcher providing the event processing loop." alt="" coords="101,5,259,200"/>
+</map>

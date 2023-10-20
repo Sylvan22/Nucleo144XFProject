@@ -1,0 +1,4 @@
+<map id="XFDefaultTransition" name="XFDefaultTransition">
+<area shape="rect" id="node1" title="State machine transition without trigger." alt="" coords="5,248,165,340"/>
+<area shape="rect" id="node2" href="$class_x_f_event.html" title="Base class for all types of events and timeouts." alt="" coords="5,5,165,200"/>
+</map>

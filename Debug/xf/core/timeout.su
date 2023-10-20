@@ -1,0 +1,9 @@
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:43:5:XFEvent::XFEvent(XFEvent::XFEventType, int)	24	static
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:44:13:XFEvent::~XFEvent()	16	static
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:44:13:virtual XFEvent::~XFEvent()	16	static
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:61:17:void XFEvent::setBehavior(interface::XFBehavior*)	16	static
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:65:18:virtual bool XFEvent::deleteAfterConsume() const	16	static
+../xf/core/timeout.cpp:5:1:XFTimeout::XFTimeout(int, int, interface::XFBehavior*)	24	static
+../xf/core/timeout.cpp:11:6:virtual bool XFTimeout::deleteAfterConsume() const	16	static
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/timeout.h:27:7:XFTimeout::~XFTimeout()	16	static
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/timeout.h:27:7:virtual XFTimeout::~XFTimeout()	16	static

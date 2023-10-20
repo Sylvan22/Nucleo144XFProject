@@ -1,0 +1,9 @@
+C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626\tools\arm-none-eabi\include\c++\11.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../platform/f7-disco-gcc/mcu/hal/uart.cpp:12:1:Uart::Uart(unsigned char, UART_HandleTypeDef*, bool)	24	static
+../platform/f7-disco-gcc/mcu/hal/uart.cpp:36:1:Uart::~Uart()	16	static
+../platform/f7-disco-gcc/mcu/hal/uart.cpp:36:1:virtual Uart::~Uart()	16	static
+../platform/f7-disco-gcc/mcu/hal/uart.cpp:41:6:bool Uart::initialize()	16	static
+../platform/f7-disco-gcc/mcu/hal/uart.cpp:46:6:bool Uart::enable()	16	static
+../platform/f7-disco-gcc/mcu/hal/uart.cpp:53:6:bool Uart::disable()	16	static
+../platform/f7-disco-gcc/mcu/hal/uart.cpp:60:6:void Uart::write(const char*, unsigned int)	24	static
+../platform/f7-disco-gcc/mcu/hal/uart.cpp:78:6:void Uart::writeUsingDMA(const uint8_t*, uint32_t)	24	static

@@ -1,0 +1,10 @@
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/mutex.h:52:5:constexpr interface::XFMutex::XFMutex()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/mutex.h:20:13:interface::XFMutex::~XFMutex()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/mutex.h:20:13:virtual interface::XFMutex::~XFMutex()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/port/idf-stm32/mutex.h:35:5:constexpr XFMutex::XFMutex()	1
+../xf/port/idf-stm32/mutex.cpp:11:22:static interface::XFMutex* interface::XFMutex::create()	1
+../xf/port/idf-stm32/mutex.cpp:16:6:virtual void XFMutex::lock()	1
+../xf/port/idf-stm32/mutex.cpp:20:6:virtual void XFMutex::unlock()	1
+../xf/port/idf-stm32/mutex.cpp:24:6:virtual bool XFMutex::tryLock(int32_t)	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/port/idf-stm32/mutex.h:23:7:XFMutex::~XFMutex()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/port/idf-stm32/mutex.h:23:7:virtual XFMutex::~XFMutex()	1

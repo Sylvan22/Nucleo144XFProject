@@ -1,0 +1,9 @@
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:43:5:XFEvent::XFEvent(XFEvent::XFEventType, int)	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:44:13:XFEvent::~XFEvent()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:44:13:virtual XFEvent::~XFEvent()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:61:17:void XFEvent::setBehavior(interface::XFBehavior*)	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:65:18:virtual bool XFEvent::deleteAfterConsume() const	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/customevent.h:36:10:virtual bool XFCustomEvent::deleteAfterConsume() const	1
+../xf/core/customevent.cpp:5:1:XFCustomEvent::XFCustomEvent(int, interface::XFBehavior*)	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/customevent.h:21:7:XFCustomEvent::~XFCustomEvent()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/customevent.h:21:7:virtual XFCustomEvent::~XFCustomEvent()	1

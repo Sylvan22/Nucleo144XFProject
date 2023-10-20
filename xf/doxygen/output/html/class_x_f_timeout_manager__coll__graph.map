@@ -1,0 +1,5 @@
+<map id="XFTimeoutManager" name="XFTimeoutManager">
+<area shape="rect" id="node1" title="Default implementation of the XF TimeoutManager." alt="" coords="113,277,279,457"/>
+<area shape="rect" id="node2" href="$classinterface_1_1_x_f_timeout_manager.html" title="Interface for TimerManager classes (and some few &#39;tick&#39; stuff already provided)." alt="" coords="5,5,200,215"/>
+<area shape="rect" id="node3" href="$classinterface_1_1_x_f_mutex.html" title="Mutex interface needed by the XF to access a mutex." alt="" coords="224,35,355,185"/>
+</map>

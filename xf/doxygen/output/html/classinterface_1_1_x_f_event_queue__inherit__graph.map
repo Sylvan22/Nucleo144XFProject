@@ -1,0 +1,4 @@
+<map id="interface::XFEventQueue" name="interface::XFEventQueue">
+<area shape="rect" id="node1" title="Interface to be implemented by the event queue." alt="" coords="5,5,171,171"/>
+<area shape="rect" id="node2" href="$class_x_f_event_queue.html" title="Default Qt implementation for the XFEventQueue interface." alt="" coords="20,219,156,531"/>
+</map>

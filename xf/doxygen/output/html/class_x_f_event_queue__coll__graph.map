@@ -1,0 +1,6 @@
+<map id="XFEventQueue" name="XFEventQueue">
+<area shape="rect" id="node1" title="Default Qt implementation for the XFEventQueue interface." alt="" coords="20,448,156,731"/>
+<area shape="rect" id="node2" href="$classinterface_1_1_x_f_event_queue.html" title="Interface to be implemented by the event queue." alt="" coords="5,213,171,378"/>
+<area shape="rect" id="node3" href="$class_x_f_mutex.html" title="Default Qt implementation for the XFMutex interface." alt="" coords="195,205,290,385"/>
+<area shape="rect" id="node4" href="$classinterface_1_1_x_f_mutex.html" title="Mutex interface needed by the XF to access a mutex." alt="" coords="177,5,308,156"/>
+</map>

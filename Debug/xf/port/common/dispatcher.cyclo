@@ -1,0 +1,16 @@
+C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626\tools\arm-none-eabi\include\c++\11.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/event.h:56:36:interface::XFBehavior* XFEvent::getBehavior() const	1
+../xf/port/common/dispatcher.cpp:28:27:void __tcf_0()	1
+../xf/port/common/dispatcher.cpp:26:27:static interface::XFDispatcher* interface::XFDispatcher::getInstance()	3
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/dispatcher.h:34:13:interface::XFDispatcher::~XFDispatcher()	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/dispatcher.h:34:13:virtual interface::XFDispatcher::~XFDispatcher()	1
+../xf/port/common/dispatcher.cpp:36:1:XFDispatcher::~XFDispatcher()	1
+../xf/port/common/dispatcher.cpp:36:1:virtual XFDispatcher::~XFDispatcher()	1
+../xf/port/common/dispatcher.cpp:41:6:virtual void XFDispatcher::pushEvent(XFEvent*)	1
+../xf/port/common/dispatcher.cpp:48:6:virtual void XFDispatcher::scheduleTimeout(int, int, interface::XFBehavior*)	1
+../xf/port/common/dispatcher.cpp:52:6:virtual void XFDispatcher::unscheduleTimeout(int, interface::XFBehavior*)	1
+../xf/port/common/dispatcher.cpp:58:6:virtual void XFDispatcher::executeOnce()	2
+../xf/port/common/dispatcher.cpp:67:5:virtual int XFDispatcher::execute(const void*)	1
+C:/Users/sylva/STM32CubeIDE/workspace_1.13.2/testXF/xf/include/xf/interface/dispatcher.h:57:5:constexpr interface::XFDispatcher::XFDispatcher()	1
+../xf/port/common/dispatcher.cpp:74:1:XFDispatcher::XFDispatcher()	1
+../xf/port/common/dispatcher.cpp:80:6:virtual void XFDispatcher::dispatchEvent(const XFEvent*) const	3

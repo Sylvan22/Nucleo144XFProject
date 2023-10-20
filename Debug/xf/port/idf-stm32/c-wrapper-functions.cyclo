@@ -1,0 +1,4 @@
+C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626\tools\arm-none-eabi\include\c++\11.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+../xf/port/idf-stm32/c-wrapper-functions.cpp:17:6:void XF_tick()	2
+../xf/port/idf-stm32/c-wrapper-functions.cpp:30:9:int32_t XF_tickIntervalInMilliseconds()	1
+../xf/port/idf-stm32/c-wrapper-functions.cpp:35:6:bool XF_isRunning()	1
