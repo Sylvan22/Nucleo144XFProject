@@ -1,0 +1,10 @@
+../Board/CanInterface.cpp:11:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	16	static
+../Board/CanInterface.cpp:15:25:void __tcf_0()	8	static
+../Board/CanInterface.cpp:14:16:static Can_Interface* Can_Interface::getInstance()	8	static
+../Board/CanInterface.cpp:19:6:void Can_Interface::sendCanMsg(CAN_MESSAGE)	48	static
+../Board/CanInterface.cpp:27:6:void Can_Interface::sendCanMsg(uint32_t, uint32_t, uint8_t*)	24	static
+../Board/CanInterface.cpp:30:6:void Can_Interface::CAN_available(CAN_HandleTypeDef*)	16	static
+../Board/CanInterface.cpp:33:13:CAN_MESSAGE Can_Interface::getCanMsg()	16	static
+../Board/CanInterface.cpp:37:1:Can_Interface::Can_Interface()	16	static
+../Board/CanInterface.cpp:42:1:Can_Interface::~Can_Interface()	16	static
+../Board/CanInterface.cpp:42:1:virtual Can_Interface::~Can_Interface()	16	static
